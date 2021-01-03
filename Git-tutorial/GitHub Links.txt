@@ -1,7 +1,5 @@
 LINK 1: 
-https://medium.com/@george.seif94/a-full-tutorial-on-how-to-use-github-88466bac7d42Welcome to EditPad.org - your online plain text editor. Enter or paste your text here. To download and save it, click on the button below.
-
-
+https://medium.com/@george.seif94/a-full-tutorial-on-how-to-use-github-88466bac7d42
 LINK 2 : YouTube
 
 https://www.youtube.com/watch?v=_frCuw5JWdQ&list=PLtHk-CFu5F9Vfa4zIA3cm1Sl04tH1ciA6
